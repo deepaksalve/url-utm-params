@@ -1,4 +1,4 @@
-# url-utm-params
+# url-utm-params [![Build Status](https://travis-ci.org/deepaksalve/url-utm-params.svg?branch=master)](https://travis-ci.org/deepaksalve/url-utm-params)
 NodeJs utitlity to get UTM params from url and to build a url with UTM params.
 
 UTM parameters as query params in a URL identify the campaign that refers to the traffic to a specific website.
