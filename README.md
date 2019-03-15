@@ -43,7 +43,7 @@ $ npm install --save url-utm-params
     const params = {
       utm_source: 'facebook',
       utm_medium: 'social',
-      custom_param: 'cutsom'
+      custom_param: 'custom'
     };
     const isStrict = true;
 
